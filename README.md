@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Leo.
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+          
+
+
+
+
+
 
 <!--
 **leokashmir/leokashmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
