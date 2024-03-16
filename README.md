@@ -30,12 +30,7 @@
            
                    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="80" height="100" />           
-          
-
-            
-            
-            
-            
+     
 
             
            
