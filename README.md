@@ -30,6 +30,7 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="60" height="80"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="80" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"  width="60" height="80" />
+            <img src="https://skillicons.dev/icons?i=kotlin,nodejs,php&theme=dark&perline=3" />
           
            
 </p>
