@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Leo.  
+### <div > <h1 align="center" > < I'm Leo. /> </h1> </div>
+
+# 📝About Me
 :computer: I'm Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
@@ -17,7 +19,7 @@
 </div>
 
 
-## Skill
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> My Skill
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="60" height="80"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="80" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"  width="60" height="80" />
