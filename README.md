@@ -99,7 +99,7 @@
 </table>
 <br/><br/>
 
-# 📫 Contatct Me
+# 📫 Contact Me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/leokashmir" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
