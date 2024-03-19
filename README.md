@@ -1,11 +1,11 @@
 ### <div > <h1 align="center" > < I'm Leo. /> </h1> </div>
-
+<br/>
 # 📝About Me
 :computer: I'm Java Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
-
+<br/><br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> My Skill
 
@@ -107,7 +107,10 @@
 <a href = "https://wa.me/+5511984565921/?text=textourl"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
             
 </div>
+<br/><br/>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leokashmir&theme=radical)
 
           
                  
