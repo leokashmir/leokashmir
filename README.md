@@ -1,7 +1,7 @@
 ### <div > <h1 align="center" > < I'm Leo. /> </h1> </div>
 
 # 📝About Me
-:computer: I'm Back-End Developer!
+:computer: I'm Java Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
@@ -28,7 +28,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="60" height="80"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="80" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"  width="70" height="90"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="80" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"  width="60" height="80" />
             <img src="https://skillicons.dev/icons?i=kotlin,nodejs,php&theme=dark&perline=3" />
           
@@ -62,6 +62,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-plain-wordmark.svg"   width="90" height="110"   />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="60" height="80" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="90" height="110" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="60" height="80"  />  
+<img src="https://skillicons.dev/icons?i=kafka,kubernetes&theme=dark&perline=3" />
           
 </p>
 
@@ -74,7 +75,8 @@
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-plain-wordmark.svg" width="60" height="80" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="60" height="80"  /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" width="60" height="80"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg"  width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"   width="60" height="80"/> 
+<img src="https://skillicons.dev/icons?i=gradle,github,git&theme=dark&perline=3" />
+
            
           
 </p>
